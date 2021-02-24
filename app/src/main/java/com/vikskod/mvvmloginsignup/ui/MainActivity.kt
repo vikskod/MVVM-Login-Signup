@@ -1,7 +1,8 @@
-package com.vikskod.mvvmloginsignup
+package com.vikskod.mvvmloginsignup.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.vikskod.mvvmloginsignup.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
